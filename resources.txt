@@ -1,0 +1,5 @@
+https://zerosoft.zophar.net/ips.php
+http://justsolve.archiveteam.org/wiki/IPS_(binary_patch_format)
+https://github.com/Eagleheardt/EWingIPSPatcher
+https://github.com/marcrobledo/RomPatcher.js/
+https://ipsy.readthedocs.io/en/latest/
